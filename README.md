@@ -1,4 +1,4 @@
-# CarNet
+# CarNet: Simulating Object Detection in Autopilot 
 
 * Dataset
 ~30K images
